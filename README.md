@@ -5,5 +5,5 @@ This is an Encoder-Decoder Seq2Seq model implemented in Python which takes the c
 The Stanford Question Answering Dataset `SQuAD2.0` is used to train the model.
 download link : https://rajpurkar.github.io/SQuAD-explorer/
 
-`glove.6B.100d` Stanford's unsupervised learning algorithm to get word embeddings is used for obtaining vector representations for words.
+`glove.6B.100d` is Stanford's unsupervised learning algorithm to get word embeddings is used for obtaining vector representations for words.
 download link : https://nlp.stanford.edu/projects/glove/
